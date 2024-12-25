@@ -2,7 +2,7 @@ package worker
 
 import (
 	"fmt"
-	"github.com/mavlyukaev/cloud-technologies-and-backend/pkg/mutex"
+	"github.com/zahaev/cloud-technologies-and-backend/pkg/mutex"
 )
 
 func RunWorkers(count int) {
